@@ -89,6 +89,7 @@ button {
         -ms-flex-align: center;
             align-items: center;
     width: 100%;
+    margin: 0 auto;
   }
   .footer {
     background-color: #eec2eb;
@@ -103,11 +104,13 @@ button {
         -ms-flex-align: center;
             align-items: center;
     width: 100%;
+    margin: 0 auto;
   }
   button {
     width: 100%;
     position: absolute;
     bottom: 20px;
+    margin: 0 auto;
   }
 }
 /*# sourceMappingURL=main.css.map */
